@@ -1,0 +1,13 @@
+.image_container{
+    text-align: center;
+}
+image{
+    vertical-align: middle;
+}
+body {
+    background-color: rgb(206, 163, 111);
+}
+
+h1 {
+    text-align: center; color: brown;
+}

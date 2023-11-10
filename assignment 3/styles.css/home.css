@@ -1,0 +1,22 @@
+body  {
+    background-image: url(../gallery/fooood\ main\ 1.webp);
+    background-size: cover;
+    background-repeat: no-repeat; 
+
+
+
+
+}
+
+body {
+    background-color: rgb(201, 173, 139);
+}
+h1 { text-align: center; color: aliceblue;font-weight: bolder; font: size 200px;
+
+}
+h6 { font-size: xx-large; text-align: center; color: chartreuse(196, 209, 200);
+
+}
+p{
+  background-color: rgb(187, 174, 155);font-size: xx-large;
+}
